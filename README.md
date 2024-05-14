@@ -1,3 +1,4 @@
+#LGMVIP-Web-Task-3
 
 # Student Enrollment System
 
@@ -10,13 +11,13 @@ This is a simple web application built with React.js for enrolling students. It 
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/student-enrollment-system.git
+   git clone https://github.com/kamlesh-Sahani/LGMVIP-Web-Task-3.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd student-enrollment-system
+   cd LGMVIP-Web-Task-3
    ```
 
 3. Install dependencies:
